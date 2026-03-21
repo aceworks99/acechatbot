@@ -1,6 +1,6 @@
 (function () {
   // ── Replace with your Render URL after deploying ──
-  const BOT_API_URL = "https://YOUR_RENDER_URL.onrender.com/api/chat";
+  const BOT_API_URL = "https://acechatbot-1.onrender.com/api/chat";
 
   const scriptTag = document.currentScript;
   const clientId = scriptTag ? scriptTag.getAttribute("data-client") || "demo" : "demo";
