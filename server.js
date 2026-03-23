@@ -60,7 +60,7 @@ Key facts:
 - Done for you, client touches no code
 - eCommerce focused only
 - Setup fee: $99 one-time
-- Monthly: $299 per month
+- Monthly: $79 per month
 
 Contact:
 - Email: ace.works19@gmail.com
@@ -75,7 +75,7 @@ Your job:
 
 Tone: Friendly, confident, professional but casual. Keep replies short and clear.
 Never use markdown formatting. Plain text only.
-Never make up information.`
+Never make up information. Respond naturally if someone jokes and invite questions about their store.`
   },
 
   // Add more clients below:
