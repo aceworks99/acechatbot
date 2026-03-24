@@ -60,7 +60,7 @@ Key facts:
 - Done for you, client touches no code
 - eCommerce focused only
 - Setup fee: $99 one-time
-- Monthly: $79 per month
+- Monthly: $79 per month but the first month is free which is included with the setup fee
 
 Contact:
 - Email: ace.works19@gmail.com
